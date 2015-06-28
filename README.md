@@ -3,8 +3,10 @@ A shared-folder based chat app using text files as logs
 
 To compile:
 
-1. run compile.bat
+1. Add an icon to the App directory titled "ICON.ico" hence completing "App\ICON.ico"
 
-2. type msbuild "Chat Application.csproj"
+2. Run compile.bat
 
-3. Enter and find the compiled program in App\bin
+3. Type msbuild "Chat Application.csproj"
+
+4. Enter and find the compiled program in App\bin
